@@ -1,3 +1,4 @@
+//hi
 #include <stdio.h>
 #include "pico/stdlib.h"
 #include "functions.h"
